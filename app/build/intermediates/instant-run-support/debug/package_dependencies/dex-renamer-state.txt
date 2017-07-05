@@ -1,0 +1,19 @@
+#Wed Jul 05 09:46:27 CEST 2017
+renamed.5=classes5.dex
+renamed.4=classes6.dex
+renamed.3=classes2.dex
+renamed.2=classes.dex
+renamed.1=classes3.dex
+renamed.0=classes4.dex
+base.5=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9379be13794277d61249ec4514aae770860291e8
+base.4=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_da43f5fe724fdd815612355fa321def6ad3a42db
+base.3=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd1870129a2938181d6e6972cf01bf8f59537de3
+base.2=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_329aa76827f996e9e186d9a6a650f5b7cebb9674
+base.1=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3338a78d746d1c7a84e8970982d165821be92b8
+base.0=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd8a100f5b511f45a9517c97b9f207268068afa8
+file.5=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9379be13794277d61249ec4514aae770860291e8/classes.dex
+file.4=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_da43f5fe724fdd815612355fa321def6ad3a42db/classes.dex
+file.3=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd1870129a2938181d6e6972cf01bf8f59537de3/classes.dex
+file.2=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_329aa76827f996e9e186d9a6a650f5b7cebb9674/classes.dex
+file.1=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3338a78d746d1c7a84e8970982d165821be92b8/classes.dex
+file.0=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd8a100f5b511f45a9517c97b9f207268068afa8/classes.dex

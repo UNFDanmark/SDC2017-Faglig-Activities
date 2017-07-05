@@ -1,0 +1,7 @@
+#Wed Jul 05 09:46:28 CEST 2017
+base.0=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_852737213c569ce0cf1f5f9e0e5f4e47ac51bc66
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3820e86135f7e77fd5ffba530b14c2459ecb94cd/classes.dex
+base.1=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3820e86135f7e77fd5ffba530b14c2459ecb94cd
+file.0=/Users/Steffen/psychic-guacamole/Activities/ActivitiesExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_852737213c569ce0cf1f5f9e0e5f4e47ac51bc66/classes.dex
